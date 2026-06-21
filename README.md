@@ -1,5 +1,3 @@
-# book-ecommerce-project
-
 # Book E-commerce Website
 
 A full-stack e-commerce website for selling books online.
@@ -51,14 +49,6 @@ https://github.com/yourusername/bookstore-frontend
 ### Backend Source Code
 
 https://github.com/yourusername/bookstore-backend
-
-## Screenshots
-
-(Add screenshots here)
-
-## Database Design
-
-(Add ERD image here)
 
 ## How to Run
 
